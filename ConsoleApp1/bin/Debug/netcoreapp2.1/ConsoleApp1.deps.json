@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "cec1c47420535db4f4de912cf71e9f01c9978708"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Compilers": "2.10.0",
+          "Microsoft.Net.Compilers": "2.10.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Microsoft.Net.Compilers/2.10.0": {},
+      "Microsoft.NETCore.Compilers/2.10.0": {}
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Net.Compilers/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tu2gfcdPGaOLj5rUhOawEMF8yerbN76nElJ/cm8XrgNJ0uSba3KPRtFslZLHbUq/k/y766sZSmhhOkTMKpG+nA==",
+      "path": "microsoft.net.compilers/2.10.0",
+      "hashPath": "microsoft.net.compilers.2.10.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Compilers/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RKCcy2k4XLQlTeDPn6DPAt6d3TBW5MlzYwEV6uTELhORkkCcy0sSu0bTSEAIBxfYKip0z5HSHzseE8/FbORifg==",
+      "path": "microsoft.netcore.compilers/2.10.0",
+      "hashPath": "microsoft.netcore.compilers.2.10.0.nupkg.sha512"
+    }
+  }
+}
